@@ -1,7 +1,7 @@
 - 👋 Hi, I’m obum 
 - 👀 I’m interested in analyzing data.
 - 🌱 I’m currently learning a range of analytical tools 
-- 💞️ I’m looking to collaborate on asset performance through dat
+- 💞️ I’m looking to collaborate on asset performance through data
 - 📫 How to reach me? o.obum@outlook.com
 
 <!---
